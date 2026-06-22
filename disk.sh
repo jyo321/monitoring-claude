@@ -1,4 +1,4 @@
-```bash
+
 #!/bin/bash
 
 # MonitoringHub Disk Monitoring Agent (No Authentication)
